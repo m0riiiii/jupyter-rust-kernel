@@ -1,5 +1,11 @@
 # Rust Kernel for Jupyter
 
+## Precondition
+
+Rustcが必要です。
+
+/* 動作確認はrustc 1.13.0 にて行いました。
+
 ## how to install
 
 以下を実行してください。
