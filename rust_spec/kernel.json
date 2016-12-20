@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "python",
+    "-m",
+    "jupyter_rust_kernel",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Rust",
+  "language": "rust"
+}
