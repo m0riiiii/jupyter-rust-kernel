@@ -18,4 +18,4 @@ sh install.sh
 
 ## License
 
-This software is released under the MIT License, see [LICENSE.txt](https://github.com/m0riiiii/jupyter-rust-kernel/LICENSE.txt).
+This software is released under the MIT License, see [LICENSE.txt](https://github.com/m0riiiii/jupyter-rust-kernel/blob/master/LICENSE.txt).
